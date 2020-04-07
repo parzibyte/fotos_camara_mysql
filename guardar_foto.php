@@ -1,7 +1,7 @@
 <?php
 /*
-    Tomar una fotografía y guardarla en un archivo
-    @date @date 2018-10-22
+    Tomar una fotografía y guardarla en MySQL
+    @date @date 2020-04-06
     @author parzibyte
     @web parzibyte.me/blog
 */
